@@ -1,0 +1,26 @@
+body{
+    background-image: url("https://www.cyclistgo.com/wp-content/uploads/2014/08/Fondo-calculadoras-01.png");
+    background-size: cover;
+}
+
+.alert-primary{
+    text-align: center;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    background-color: rgb(37, 37, 37);
+    text-align: center;
+}
+
+
+h4{
+font-size: 90%;
+text-align: center;
+color: white;
+}
+
+.form-group{
+    color: white;
+}
+
